@@ -3,11 +3,8 @@ This repository is dedicated to Soccer Analytics project based on La Liga Datase
 
 # Download and install the necessary libraries.
 
-pip install streamlit 
-pip install pandas
-pip install matplotlib
-pip install plotly 
-pip install seaborn 
+pip install streamlit pandas matplotlib plotly seaborn
+
 
 
 

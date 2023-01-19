@@ -10,6 +10,11 @@ st.text('This is a web app to explore La Liga Matches Data in Last 7 Seasons of 
 st.text(' This app is designed to work with the Match Dataset in Github repsitory.') 
 st.text('Please Download the dataset from Github Respository') 
 st.write("Github Repository [Link](https://github.com/sudhanshumukherjeexx/Soccer-Analytics---La-Liga-Dataset)")
+st.text("A Neural Network Model was used to predict Match Results.")
+st.text("This web app visualizes all the features in Plotly making it Interactive.")
+st.text("This model uses Deep Learning techniques and PyTorch to predict ")
+st.text("match Wins, Loss, and Draws.")
+st.write("View the model here [Link](https://github.com/sudhanshumukherjeexx/Soccer-Analytics---La-Liga-Dataset/blob/main/PyTorch_Soccer_Analytics.ipynb)")
 st.image("laliga.png",output_format="auto")
 
 st.sidebar.title('Navigation')
