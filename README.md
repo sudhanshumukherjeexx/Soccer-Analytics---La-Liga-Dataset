@@ -17,4 +17,4 @@ You can view all the dashboard from there.
 
 
 # You can also access the hosted version of this app
-The Streamlit Dashboard of this project can be viewed online: **[Click Here](https://sud-soccer-analytics.streamlit.app/)**
+The Streamlit Dashboard of this project can be viewed online: **[Click Here](https://socceranalytics.streamlit.app/)**
